@@ -97,6 +97,4 @@ Each service supports basic CRUD (Create, Read, Update, Delete) operations for m
 
 Testing of all services, including CRUD operations, was conducted using *Postman*. Each service was tested independently and in integration to ensure smooth communication and data consistency across the system.
 
-## Conclusion
 
-This hotel booking system uses microservices architecture and service discovery with *Eureka Server* to provide an efficient solution for managing hotels, bookings, and payments. By using Spring Boot and integrating service discovery, the system is designed for scalability and reliability.
