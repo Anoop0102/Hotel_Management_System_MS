@@ -1,6 +1,7 @@
 # Hotel Management System - Service Integration
 
-This project is a hotel management system composed of three microservices: **Hotel Service, **Booking Service, and **Payment Service, integrated with **Eureka Server* for service discovery. The services are designed to interact with each other, providing a complete solution for booking hotels and processing payments.
+This project is a hotel management system composed of three microservices: **Hotel Service**, **Booking Service**, and **Payment Service**, integrated with **Eureka Server** for service discovery. The services are designed to interact with each other, providing a complete solution for booking hotels and processing payments.
+
 
 ## Overview
 
